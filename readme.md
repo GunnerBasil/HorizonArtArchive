@@ -8,4 +8,4 @@ The file is prefixed with the order it was uploaded, followed by the name of the
 
 ## Submissions your own
 
-Minecraft skins are listed in guidelines.md. If you want to submit fanart, dm Basil#8132 on Discord.
+Minecraft skins are listed in guidelines.md. If you want to submit fanart, dm Basil#1337 on Discord.
